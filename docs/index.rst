@@ -52,24 +52,22 @@ At first I did it on my local Mac, for both:
 
 .. _With Sphinx: https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html
 
-*`With MkDocs`_  
-
-.. _With MkDocs: https://docs.readthedocs.io/en/latest/intro/getting-started-with-mkdocs.html
-
-
-
-https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html
-
-xxx
-.. figure:: _static/screenshots/index/02.png
-    :align: center
-    
-    
- yyy   
 .. figure:: _static/screenshots/index/02.png
     :align: right
     :figwidth: 300px
     :target: _static/screenshots/index/02.png
+    
+
+*`With MkDocs`_  
+
+.. _With MkDocs: https://docs.readthedocs.io/en/latest/intro/getting-started-with-mkdocs.html
+
+  
+.. figure:: _static/screenshots/index/01.png
+    :align: right
+    :figwidth: 300px
+    :target: _static/screenshots/index/01.png 
+
     
 MkDocs    
 https://docs.readthedocs.io/en/latest/intro/getting-started-with-mkdocs.html
