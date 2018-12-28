@@ -55,7 +55,7 @@ Table of Contents
 -----------------
 
 .. toctree::
-
+   django
    markup
    options
    methods
