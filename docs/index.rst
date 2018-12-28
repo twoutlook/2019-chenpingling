@@ -2,6 +2,7 @@
 Starting from official website
 ====================
 Choose the first available template
+
 .. figure:: _static/screenshots/index/00.png
     :align: center
 
@@ -15,6 +16,7 @@ https://bootstrap-datepicker.readthedocs.io/en/latest/
 Learning by doing
 ====================
 Choose the first available template
+
 .. figure:: _static/screenshots/index/03.png
     :align: center
 
@@ -32,7 +34,9 @@ https://github.com/uxsolutions/bootstrap-datepicker/edit/master/docs/index.rst
 2019-chenpingling is my playground to practice readthedocs.io.
 
 At first I did it on my local Mac, for both
-
+* **Getting started**:
+  :doc:`With Sphinx <intro/getting-started-with-sphinx>` |
+  :doc:`With MkDocs <intro/getting-started-with-mkdocs>`
 Sphinx
 
 https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html
