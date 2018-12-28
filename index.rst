@@ -3,6 +3,21 @@ https://github.com/uxsolutions/bootstrap-datepicker/edit/master/docs/index.rst
 as a template to practice first
 
 
+2019-chenpingling
+====================
+
+2019-chenpingling is my playground to practice readthedocs.io.
+
+At first I did on my local Mac
+
+.. figure:: _static/screenshots/index/01.png
+    :align: center
+
+Versions are incremented according to `semver <https://semver.org/>`_.
+
+`Online Demo <https://uxsolutions.github.io/bootstrap-datepicker>`_
+
+
 bootstrap-datepicker
 ====================
 
