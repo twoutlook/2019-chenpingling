@@ -26,22 +26,6 @@ https://2019-chenpingling.readthedocs.io/en/latest/
 
 
 
-
-Learning by doing
-====================
-Choose the first available template
-
-.. figure:: _static/screenshots/index/03.png
-    :align: center
-
-Online doc on readthedocs is
-https://bootstrap-datepicker.readthedocs.io/en/latest/
-
-And the source is 
-https://github.com/uxsolutions/bootstrap-datepicker/edit/master/docs/index.rst
-
-
-
 2019-chenpingling
 ====================
 
