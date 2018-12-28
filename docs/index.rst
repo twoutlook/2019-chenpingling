@@ -13,11 +13,13 @@ At first I did on my local Mac, for both
 Sphinx
 
 https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html
+
 .. figure:: _static/screenshots/index/02.png
     :align: center
     
 MkDocs    
 https://docs.readthedocs.io/en/latest/intro/getting-started-with-mkdocs.html
+
 .. figure:: _static/screenshots/index/01.png
     :align: center
     
