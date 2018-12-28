@@ -1,4 +1,17 @@
 
+Starting from official website
+====================
+Choose the first available template
+.. figure:: _static/screenshots/index/00.png
+    :align: center
+
+Online doc on readthedocs is
+https://bootstrap-datepicker.readthedocs.io/en/latest/
+
+
+
+
+
 Learning by doing
 ====================
 Choose the first available template
@@ -26,6 +39,11 @@ https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html
 
 .. figure:: _static/screenshots/index/02.png
     :align: center
+    
+.. figure:: _static/screenshots/index/02.png
+    :align: right
+    :figwidth: 300px
+    :target: _static/screenshots/index/02.png
     
 MkDocs    
 https://docs.readthedocs.io/en/latest/intro/getting-started-with-mkdocs.html
