@@ -55,7 +55,14 @@ Table of Contents
 -----------------
 
 .. toctree::
-   django2.1
+   django2.1-tut01
+   django2.1-tut02
+   django2.1-tut03
+   django2.1-tut04
+   django2.1-tut05
+   django2.1-tut06
+   django2.1-tut07
+   
    markup
    options
    methods
