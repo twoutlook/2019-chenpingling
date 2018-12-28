@@ -13,6 +13,7 @@ https://bootstrap-datepicker.readthedocs.io/en/latest/
 
 
 The source is on GitHub
+
 .. figure:: _static/screenshots/index/00b.png
     :align: center
     
