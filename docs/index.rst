@@ -46,14 +46,13 @@ https://github.com/uxsolutions/bootstrap-datepicker/edit/master/docs/index.rst
 
 2019-chenpingling is my playground to practice readthedocs.io.
 
-At first I did it on my local Mac, for both 
+At first I did it on my local Mac, for both:
 
-`With Sphinx`_ 
+*`With Sphinx`_ 
 
 .. _With Sphinx: https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html
 
-
-and `With MkDocs`_  
+*`With MkDocs`_  
 
 .. _With MkDocs: https://docs.readthedocs.io/en/latest/intro/getting-started-with-mkdocs.html
 
