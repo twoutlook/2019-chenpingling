@@ -50,7 +50,8 @@ At first I did it on my local Mac, for both `With Sphinx`
 
 .. _With Sphinx: https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html
 
- and `With MkDocs`  .
+and `With MkDocs`  .
+
 .. _With MkDocs: https://docs.readthedocs.io/en/latest/intro/getting-started-with-mkdocs.html
 
 
