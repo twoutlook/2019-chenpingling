@@ -1,14 +1,18 @@
+
+Learning by doing
+====================
+
 use
 https://github.com/uxsolutions/bootstrap-datepicker/edit/master/docs/index.rst
-as a template to practice first
 
+as template to test basic functio
 
 2019-chenpingling
 ====================
 
 2019-chenpingling is my playground to practice readthedocs.io.
 
-At first I did on my local Mac, for both
+At first I did it on my local Mac, for both
 
 Sphinx
 
