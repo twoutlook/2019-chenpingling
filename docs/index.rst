@@ -5,10 +5,17 @@ Choose the first available template
 
 .. figure:: _static/screenshots/index/00.png
     :align: center
+    
+    
 
 Online doc on readthedocs is
 https://bootstrap-datepicker.readthedocs.io/en/latest/
 
+
+The source is on GitHub
+.. figure:: _static/screenshots/index/00b.png
+    :align: center
+    
 
 
 
