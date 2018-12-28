@@ -48,7 +48,7 @@ https://github.com/uxsolutions/bootstrap-datepicker/edit/master/docs/index.rst
 
 At first I did it on my local Mac, for both
 * **Getting started**:
-  :doc:`With Sphinx <intro/getting-started-with-sphinx>` |
+  :doc:`xxxWith Sphinx <https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html>` |
   :doc:`With MkDocs <intro/getting-started-with-mkdocs>`
 Sphinx
 
