@@ -2,26 +2,27 @@
 Starting from official website
 ====================
 
+發現官網本身就是最好的範例
+
 The online doc of this is
 https://2019-chenpingling.readthedocs.io/en/latest/
 
 
-Choose the first available template
 
 .. figure:: _static/screenshots/index/00.png
-    :align: center
+    :align: left
+    :figwidth: 300px
+    :target: _static/screenshots/index/00.png
     
-    
-
-Online doc on readthedocs is
-https://bootstrap-datepicker.readthedocs.io/en/latest/
-
-
-The source is on GitHub
-
 .. figure:: _static/screenshots/index/00b.png
-    :align: center
+    :align: right
+    :figwidth: 300px
+    :target: _static/screenshots/index/00b.png
     
+
+
+
+
 
 
 
