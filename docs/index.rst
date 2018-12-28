@@ -18,21 +18,14 @@ Versions are incremented according to `semver <https://semver.org/>`_.
 `Online Demo <https://uxsolutions.github.io/bootstrap-datepicker>`_
 
 
-bootstrap-datepicker
-====================
-
-Bootstrap-datepicker provides a flexible datepicker widget in the Bootstrap style.
-
-.. figure:: _static/screenshots/demo_head.png
-    :align: center
-
-Versions are incremented according to `semver <https://semver.org/>`_.
-
-`Online Demo <https://uxsolutions.github.io/bootstrap-datepicker>`_
 
 
-Requirements
+What's my approach
 ------------
+* Select one template
+* Modify the content
+
+
 
 * `Bootstrap`_ 2.0.4+
 * `jQuery`_ 1.7.1+
